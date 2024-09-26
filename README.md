@@ -37,7 +37,7 @@
 
 - [**Scientific Visualization – Python & Matplotlib**](https://github.com/rougier/scientific-visualization-book), Nicolas P. Rougier (2021)
 - [**Fundamentals of Data
-  Visualization**](https://serialmentor.com/dataviz/), Claus
+  Visualization**](https://clauswilke.com/dataviz/), Claus
   O. Wilke (2019)
 - **[Matplotlib Cheatsheets]**, Nicolas P. Rougier (2020)
 - **[Python Graph Gallery]**, Yan Holtz (2017)
