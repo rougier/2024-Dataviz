@@ -8,7 +8,7 @@
 
 ## Course
 
-* **[Scientific Visualization](slides/dataviz.pdf)** (**PDF**). A gentle
+* **[Scientific Visualization](dataviz.pdf)** (**PDF**). A gentle
      introduction to scientific visualization reviewing some concepts,
      definitions and rules.
 
